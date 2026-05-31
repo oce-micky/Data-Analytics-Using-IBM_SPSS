@@ -7,7 +7,7 @@ Welcome to my advanced analytics repository. This portfolio showcases real-world
 ## 📂 Project Directory
 
 ### 1. 🏥 Disease Prediction & Intelligent Doctor Matcher
-* **Files:** `Disease_Prediction_Model.ipynb`, `Copy_of_Disease_Prediction_Model...`
+* **Files:** `Disease_Prediction_Model.ipynb`, `Copy_of_Disease_Prediction_Model...`,'https://huggingface.co/spaces/oce1230/Disease-Prediction-System'
 * **Core Stack:** Python, Scikit-Learn, Pandas, NumPy
 * **Description:** A dual-purpose healthcare application. First, it implements a classification pipeline to predict patient health risks based on clinical symptoms. Second, it features an automated recommendation engine designed to pair patients with localized medical specialists. 
 * **Data Integrity Note:** To protect medical provider privacy and adhere to data consent best practices, the doctor database currently utilizes structurally sound mock/synthetic coordinates and contact details rather than unverified live listings.
